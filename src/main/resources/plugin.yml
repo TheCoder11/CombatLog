@@ -1,0 +1,7 @@
+name: CombatLog
+version: ${project.version}
+main: com.somemone.combatlog.CombatLog
+api-version: 1.17
+depend: [ Factions ]
+authors: [ Somemone ]
+description: CombatLog implementation invloving Factions
